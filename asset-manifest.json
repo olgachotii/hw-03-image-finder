@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-03-image-finder/static/css/main.ce742abc.css",
+    "main.js": "/hw-03-image-finder/static/js/main.ce55728f.js",
+    "index.html": "/hw-03-image-finder/index.html",
+    "main.ce742abc.css.map": "/hw-03-image-finder/static/css/main.ce742abc.css.map",
+    "main.ce55728f.js.map": "/hw-03-image-finder/static/js/main.ce55728f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce742abc.css",
+    "static/js/main.ce55728f.js"
+  ]
+}
